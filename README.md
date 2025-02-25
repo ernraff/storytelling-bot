@@ -33,7 +33,7 @@ An interactive web-based storytelling application that generates dynamic, AI-dri
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/your-username/ai-storytelling-bot.git
+   git clone https://github.com/ernraff/storytelling-bot.git
    cd ai-storytelling-bot
    ```
 
